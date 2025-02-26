@@ -9,3 +9,5 @@ Efficient Image Caching: NSCache is used to cache images, ensuring a smooth and 
 
 https://github.com/user-attachments/assets/966feb58-7db2-4048-a984-96c0c1c70050
 
+![IMG_2536](https://github.com/user-attachments/assets/10dc8503-fb00-474a-925f-1f09fd630853)
+![IMG_2534](https://github.com/user-attachments/assets/7183087b-cf37-4228-968e-48a5c1913a31)
