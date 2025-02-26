@@ -7,3 +7,7 @@ Grid-Based Display: Search results are presented in a UICollectionView layout fo
 Movie Details Page: Tapping on a movie opens a dedicated details screen with more information.
 Efficient Image Caching: NSCache is used to cache images, ensuring a smooth and optimized user experience.
 
+
+
+https://github.com/user-attachments/assets/272fb339-8486-4e22-98f0-7e9dc92d6255
+
