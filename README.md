@@ -6,3 +6,4 @@ Movie Search: Users can search for movies dynamically.
 Grid-Based Display: Search results are presented in a UICollectionView layout for a clean and organized look.
 Movie Details Page: Tapping on a movie opens a dedicated details screen with more information.
 Efficient Image Caching: NSCache is used to cache images, ensuring a smooth and optimized user experience.
+
